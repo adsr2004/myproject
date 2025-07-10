@@ -53,3 +53,7 @@ git branch
 Switch branches:
 ----------------
 git checkout branch-name
+git log              # View commit history
+git diff             # View file changes before commit
+git stash            # Temporarily hide changes
+git reset HEAD~1     # Undo last commit
